@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -71,6 +59,42 @@
         "lng": "73.87756347656251"
       },
       "id": 98443201
+    },
+    {
+      "cityName": "Soto en Cameros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-15T05:51:24.743Z",
+      "notes": "",
+      "position": {
+        "lat": "42.24478535602799",
+        "lng": "-2.39501953125"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Arvieu",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-15T06:12:51.492Z",
+      "notes": "",
+      "position": {
+        "lat": "44.19795903948531",
+        "lng": "2.7246093750000004"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Talagang",
+      "country": "Pakistan",
+      "emoji": "🇵🇰",
+      "date": "2023-12-15T06:13:01.995Z",
+      "notes": "",
+      "position": {
+        "lat": "32.7688004848817",
+        "lng": "72.50976562500001"
+      },
+      "id": 98443204
     }
   ]
 }
