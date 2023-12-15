@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
       "cityName": "Nijar",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -71,6 +59,30 @@
         "lng": "-2.39501953125"
       },
       "id": 98443202
+    },
+    {
+      "cityName": "Mora",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-12-15T08:42:10.806Z",
+      "notes": "",
+      "position": {
+        "lat": "38.90813299596705",
+        "lng": "-8.107910156250002"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Tsant",
+      "country": "Mongolia",
+      "emoji": "🇲🇳",
+      "date": "2023-12-15T08:42:46.069Z",
+      "notes": "",
+      "position": {
+        "lat": "46.07323062540835",
+        "lng": "107.05078125000001"
+      },
+      "id": 98443204
     }
   ]
 }
