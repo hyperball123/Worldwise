@@ -6,7 +6,9 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "http://localhost:9000";
+// created our own external fake api on render
+const NEW_BASE_URL = "https://cities-data-0uw5.onrender.com";
+// const BASE_URL = "http://localhost:9000";
 
 const CitiesContext = createContext();
 
@@ -71,7 +73,7 @@ function CitiesProvider({ children }) {
       dispatch({ type: "loading" });
 
       try {
-        const res = await fetch(`${BASE_URL}/cities`);
+        const res = await fetch(`${NEW_BASE_URL}/cities`);
         const data = await res.json();
         dispatch({ type: "cities/loaded", payload: data });
       } catch {
@@ -91,7 +93,7 @@ function CitiesProvider({ children }) {
       dispatch({ type: "loading" });
 
       try {
-        const res = await fetch(`${BASE_URL}/cities/${id}`);
+        const res = await fetch(`${NEW_BASE_URL}/cities/${id}`);
         const data = await res.json();
         dispatch({ type: "city/loaded", payload: data });
       } catch {
@@ -108,7 +110,7 @@ function CitiesProvider({ children }) {
     dispatch({ type: "loading" });
 
     try {
-      const res = await fetch(`${BASE_URL}/cities`, {
+      const res = await fetch(`${NEW_BASE_URL}/cities`, {
         method: "POST",
         body: JSON.stringify(newCity),
         headers: {
@@ -130,7 +132,7 @@ function CitiesProvider({ children }) {
     dispatch({ type: "loading" });
 
     try {
-      await fetch(`${BASE_URL}/cities/${id}`, {
+      await fetch(`${NEW_BASE_URL}/cities/${id}`, {
         method: "DELETE",
       });
 

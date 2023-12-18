@@ -1,88 +1,16 @@
 {
   "cities": [
     {
-      "cityName": "Nijar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-04-03T07:47:59.202Z",
-      "notes": "",
-      "position": {
-        "lat": "36.967508314568164",
-        "lng": "-2.13128394200588"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Haraza",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-12-14T20:14:04.671Z",
-      "notes": "",
-      "position": {
-        "lat": "36.10237644873644",
-        "lng": "4.174804687500001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Shatura",
-      "country": "Russian Federation (the)",
-      "emoji": "🇷🇺",
-      "date": "2023-12-15T04:56:20.646Z",
-      "notes": "",
-      "position": {
-        "lat": "55.3791104480105",
-        "lng": "40.07812500000001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Pune",
+      "cityName": "Haveli",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2023-12-15T04:56:25.882Z",
+      "date": "2023-12-18T08:52:44.585Z",
       "notes": "",
       "position": {
-        "lat": "18.531700307384057",
-        "lng": "73.87756347656251"
+        "lat": "18.646245142670608",
+        "lng": "73.99291992187501"
       },
-      "id": 98443201
-    },
-    {
-      "cityName": "Soto en Cameros",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-12-15T05:51:24.743Z",
-      "notes": "",
-      "position": {
-        "lat": "42.24478535602799",
-        "lng": "-2.39501953125"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Mora",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2023-12-15T08:42:10.806Z",
-      "notes": "",
-      "position": {
-        "lat": "38.90813299596705",
-        "lng": "-8.107910156250002"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Tsant",
-      "country": "Mongolia",
-      "emoji": "🇲🇳",
-      "date": "2023-12-15T08:42:46.069Z",
-      "notes": "",
-      "position": {
-        "lat": "46.07323062540835",
-        "lng": "107.05078125000001"
-      },
-      "id": 98443204
+      "id": 98443205
     }
   ]
 }
