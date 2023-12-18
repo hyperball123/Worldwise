@@ -14,7 +14,8 @@ Advanced React Routing 🔀
 Context API 🔄
 Custom Hooks for Reusability ⚙️
 Leaflet for Map Integration 🗺️
-What I Learned
+
+>What I Learned
 
 --During the development of WorldWise, I delved into various advanced React concepts and technologies. Some key takeaways include:
 
@@ -45,8 +46,13 @@ Install dependencies using npm install.
 Run the application with npm run dev.
 
 Explore, wander, and plan your next global adventure with WorldWise! 🌍✈️
+
 Screenshots
-Insert screenshots of your application here.
+![image](https://github.com/hyperball123/Worldwise/assets/86605066/d4e4401e-b41c-4ea5-8a59-4c913ccc7476)
+
+![image](https://github.com/hyperball123/Worldwise/assets/86605066/40e65d38-c1e1-499e-8ccc-6b18ac47f77d)
+![image](https://github.com/hyperball123/Worldwise/assets/86605066/33b2be7f-63bf-4506-9f94-13901a18154d)
+
 
 --Contribute
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
